@@ -1,6 +1,6 @@
 from turtle import *
 
-count = 0
+count = 0 #アホ
 def anpanman(loop, radius):
     #一度だけ実行
     global count
