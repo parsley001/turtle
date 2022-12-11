@@ -13,7 +13,7 @@ def anpanman(loop, radius):
         count = 1
 
     if(loop == 0):
-        #ただの円
+        #スキップ
         penup()
         left(90)
         forward(radius*2)
